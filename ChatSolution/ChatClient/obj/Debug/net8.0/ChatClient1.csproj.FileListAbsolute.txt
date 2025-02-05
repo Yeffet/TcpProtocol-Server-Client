@@ -1,0 +1,14 @@
+C:\Users\amiti\source\repos\ChatSolution\ChatClient1\bin\Debug\net8.0\ChatClient1.exe
+C:\Users\amiti\source\repos\ChatSolution\ChatClient1\bin\Debug\net8.0\ChatClient1.deps.json
+C:\Users\amiti\source\repos\ChatSolution\ChatClient1\bin\Debug\net8.0\ChatClient1.runtimeconfig.json
+C:\Users\amiti\source\repos\ChatSolution\ChatClient1\bin\Debug\net8.0\ChatClient1.dll
+C:\Users\amiti\source\repos\ChatSolution\ChatClient1\bin\Debug\net8.0\ChatClient1.pdb
+C:\Users\amiti\source\repos\ChatSolution\ChatClient1\obj\Debug\net8.0\ChatClient1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amiti\source\repos\ChatSolution\ChatClient1\obj\Debug\net8.0\ChatClient1.AssemblyInfoInputs.cache
+C:\Users\amiti\source\repos\ChatSolution\ChatClient1\obj\Debug\net8.0\ChatClient1.AssemblyInfo.cs
+C:\Users\amiti\source\repos\ChatSolution\ChatClient1\obj\Debug\net8.0\ChatClient1.csproj.CoreCompileInputs.cache
+C:\Users\amiti\source\repos\ChatSolution\ChatClient1\obj\Debug\net8.0\ChatClient1.dll
+C:\Users\amiti\source\repos\ChatSolution\ChatClient1\obj\Debug\net8.0\refint\ChatClient1.dll
+C:\Users\amiti\source\repos\ChatSolution\ChatClient1\obj\Debug\net8.0\ChatClient1.pdb
+C:\Users\amiti\source\repos\ChatSolution\ChatClient1\obj\Debug\net8.0\ChatClient1.genruntimeconfig.cache
+C:\Users\amiti\source\repos\ChatSolution\ChatClient1\obj\Debug\net8.0\ref\ChatClient1.dll
